@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01",
+    "userName": "afonso",
+    "email": "afonso@gmail.com",
+    "isLogged": false,
+    "rentBooks": []
+  },
+  {
+    "id": "02",
+    "userName": "afonso",
+    "email": "afonso@gmail.com",
+    "isLogged": false,
+    "rentBooks": []
+  },
+  {
+    "id": "03",
+    "userName": "afonso",
+    "email": "afonso@gmail.com",
+    "isLogged": false,
+    "rentBooks": []
+  },
+  {
+    "id": "04",
+    "userName": "afonso",
+    "email": "afonso@gmail.com",
+    "isLogged": false,
+    "rentBooks": []
+  },
+  {
+    "id": "05",
+    "userName": "afonso",
+    "email": "afonso@gmail.com",
+    "isLogged": false,
+    "rentBooks": []
+  }
+]
